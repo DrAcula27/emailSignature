@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://dracula27.github.io/emailSignature/">
-    <img src="./img/logo-self.png" alt="Logo" width="80" />
+    <img src="https://i.ibb.co/cXmh7wh/logo-self.png" alt="Logo" width="80" />
   </a>
 
   <h3 align="center">HTML Email Signature</h3>
