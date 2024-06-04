@@ -92,5 +92,6 @@ Project Link: [https://github.com/DrAcula27/drinkDeck](https://github.com/DrAcul
 A special thanks to these resources used in the project!
 
 - [GitHub Pages](https://pages.github.com)
+- [daretothink.co.uk](https://www.daretothink.co.uk/html-email-signature-in-apple-mail/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
