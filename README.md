@@ -81,7 +81,7 @@ This project can be improved by:
 
 Danielle Andrews - [@DrAcula_codes](https://twitter.com/DrAcula_codes 'Twitter/X') - [daniellerandrews](https://www.linkedin.com/in/daniellerandrews 'LinkedIn') - danielle.andrews.dev@icloud.com
 
-Project Link: [https://github.com/DrAcula27/drinkDeck](https://github.com/DrAcula27/drinkDeck)
+Project Link: [https://dracula27.github.io/emailSignature/](https://dracula27.github.io/emailSignature/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
