@@ -35,7 +35,7 @@
 ## About The Project
 
 <p align="center">
-    <img src='https://i.ibb.co/zPhq3n5/Screenshot-from-2024-06-04-15-56-33.png' alt='email signature Screen Shot' />
+    <img src='./screenshot.png' alt='email signature Screen Shot' />
 </p>
 
 This is an email signature written entirely in HTML that can be used in most email clients.
